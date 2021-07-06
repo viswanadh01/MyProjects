@@ -2,7 +2,7 @@
 
 ## J2SE Application
 
-A fictitious J2SE application that provides handson on Java Collection framework.
+A fictitious J2SE application that provides a hands-on on Java Collection framework.
 
 ### Modules
 * Customer module
